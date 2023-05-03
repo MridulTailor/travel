@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# A travel agency app to learn more about ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I learned about how to work with react,mobile first design, react hooks, animations with AOS and CSS usind SCSS.
 
-## Available Scripts
+![video](https://user-images.githubusercontent.com/71081929/235910898-2826624f-9a9d-49e1-9d57-44c4a310fb0b.gif)
 
 In the project directory, you can run:
 
